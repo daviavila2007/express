@@ -1,0 +1,12 @@
+body {
+    background-color: #f713ff; /* Cor de fundo */
+    color: rgb(255, 255, 255); /* Cor da fonte */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #1815b4;
+}
